@@ -10,7 +10,7 @@ public:
 
   }
   void show(){
-    cout << real << "+" << img << "i" << endl;
+    cout << real << "+" << img << "i" ;
   }
 };
  int main(){
